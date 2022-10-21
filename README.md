@@ -2,4 +2,4 @@
 
 Project used to practice Python Loops.
 
-VERY SIMPLE text based applcation.
+VERY SIMPLE text based application :)
